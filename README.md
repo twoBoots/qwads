@@ -3,8 +3,12 @@
 > The reason for stitches
 
 #### TODO
-- Ag: PT1 Filter and retune
-- Au: PT1 Filter and retune
-- Chimp: Whip antenna
+- Au: flash
+- Ag: flash
+- Chimp: flash
+- Vinshk: flash
+
 - Chimp: cfg esc chirp
 - Vinshk: cfg esc chirp
+- Vinshk: DYS Mi200
+- Vinshk: 3042 prop retune
